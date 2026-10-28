@@ -1,0 +1,400 @@
+{
+  "projects": [
+    {
+      "name": "react-native-ecommerce-components",
+      "title": "Componentes para e-commerce",
+      "area": "software",
+      "access": "public",
+      "case": "projetos/react-native-ecommerce-components.md"
+    },
+    {
+      "name": "TechEcommerce",
+      "title": "TechEcommerce",
+      "area": "software",
+      "access": "public",
+      "case": "projetos/TechEcommerce.md"
+    },
+    {
+      "name": "Brazukol-Compiler",
+      "title": "Brazukol Compiler",
+      "area": "linguagens",
+      "access": "public",
+      "case": "projetos/Brazukol-Compiler.md"
+    },
+    {
+      "name": "Kanb-Ex",
+      "title": "Kanb-Ex",
+      "area": "software",
+      "access": "public",
+      "case": "projetos/Kanb-Ex.md"
+    },
+    {
+      "name": "AI-Tank-Battle",
+      "title": "Batalha de tanques em Prolog",
+      "area": "ia",
+      "access": "public",
+      "case": "projetos/AI-Tank-Battle.md"
+    },
+    {
+      "name": "prolog-car-race",
+      "title": "Prolog Car Race",
+      "area": "ia",
+      "access": "public",
+      "case": "projetos/prolog-car-race.md"
+    },
+    {
+      "name": "NPL-Exercises",
+      "title": "Exercícios de linguagem natural",
+      "area": "ia",
+      "access": "public",
+      "case": "projetos/NPL-Exercises.md"
+    },
+    {
+      "name": "File-Signature-Generator",
+      "title": "Assinaturas de arquivos",
+      "area": "sistemas",
+      "access": "public",
+      "case": "projetos/File-Signature-Generator.md"
+    },
+    {
+      "name": "Biblioteca-Virtual",
+      "title": "Biblioteca Virtual",
+      "area": "software",
+      "access": "public",
+      "case": "projetos/Biblioteca-Virtual.md"
+    },
+    {
+      "name": "Mediator_Chat",
+      "title": "Chat com Mediator",
+      "area": "software",
+      "access": "private-summary",
+      "case": "projetos/Mediator_Chat.md"
+    },
+    {
+      "name": "atividade_grafico",
+      "title": "Gráficos com Builder",
+      "area": "software",
+      "access": "private-summary",
+      "case": "projetos/atividade_grafico.md"
+    },
+    {
+      "name": "atividade_delivery",
+      "title": "Regras de delivery",
+      "area": "software",
+      "access": "private-summary",
+      "case": "projetos/atividade_delivery.md"
+    },
+    {
+      "name": "Gerenciador_compras",
+      "title": "Gerenciador de compras",
+      "area": "software",
+      "access": "private-summary",
+      "case": "projetos/Gerenciador_compras.md"
+    },
+    {
+      "name": "EstacaoClimatica",
+      "title": "Estação climática com Observer",
+      "area": "software",
+      "access": "private-summary",
+      "case": "projetos/EstacaoClimatica.md"
+    },
+    {
+      "name": "acesso_usuarios",
+      "title": "Acesso e gestão de usuários",
+      "area": "software",
+      "access": "public",
+      "case": "projetos/acesso_usuarios.md"
+    },
+    {
+      "name": "npm-library-graph-generator",
+      "title": "Gráficos de dados do npm",
+      "area": "dados",
+      "access": "public",
+      "case": "projetos/npm-library-graph-generator.md"
+    }
+  ],
+  "subjects": [
+    {
+      "code": "COM06842",
+      "name": "Programação I",
+      "suggested_term": 1,
+      "page": "disciplinas/programming-i.md"
+    },
+    {
+      "code": "COM06850",
+      "name": "Introdução à Ciência da Computação",
+      "suggested_term": 1,
+      "page": "disciplinas/introduction-to-computer-science.md"
+    },
+    {
+      "code": "COM06851",
+      "name": "Matemática Discreta",
+      "suggested_term": 1,
+      "page": "disciplinas/discrete-mathematics.md"
+    },
+    {
+      "code": "ENG06849",
+      "name": "Inglês Instrumental",
+      "suggested_term": 1,
+      "page": "disciplinas/technical-english.md"
+    },
+    {
+      "code": "MPA06839",
+      "name": "Cálculo A",
+      "suggested_term": 1,
+      "page": "disciplinas/calculus-a.md"
+    },
+    {
+      "code": "MPA06840",
+      "name": "Vetores e Geometria Analítica",
+      "suggested_term": 1,
+      "page": "disciplinas/vectors-and-analytic-geometry.md"
+    },
+    {
+      "code": "COM06853",
+      "name": "Lógica Computacional",
+      "suggested_term": 2,
+      "page": "disciplinas/computational-logic.md"
+    },
+    {
+      "code": "COM06992",
+      "name": "Estruturas de Dados I",
+      "suggested_term": 2,
+      "page": "disciplinas/data-structures-i.md"
+    },
+    {
+      "code": "COM06996",
+      "name": "Informática e Sociedade",
+      "suggested_term": 2,
+      "page": "disciplinas/computing-and-society.md"
+    },
+    {
+      "code": "COM06999",
+      "name": "Circuitos Digitais",
+      "suggested_term": 2,
+      "page": "disciplinas/digital-circuits.md"
+    },
+    {
+      "code": "ENG06854",
+      "name": "Português Instrumental",
+      "suggested_term": 2,
+      "page": "disciplinas/academic-writing.md"
+    },
+    {
+      "code": "MPA06855",
+      "name": "Álgebra Linear",
+      "suggested_term": 2,
+      "page": "disciplinas/linear-algebra.md"
+    },
+    {
+      "code": "MPA06979",
+      "name": "Cálculo B",
+      "suggested_term": 2,
+      "page": "disciplinas/calculus-b.md"
+    },
+    {
+      "code": "COM10076",
+      "name": "Arquitetura de Computadores",
+      "suggested_term": 3,
+      "page": "disciplinas/computer-architecture.md"
+    },
+    {
+      "code": "COM10078",
+      "name": "Estrutura de Dados II",
+      "suggested_term": 3,
+      "page": "disciplinas/data-structures-ii.md"
+    },
+    {
+      "code": "COM10080",
+      "name": "Lógica Computacional II",
+      "suggested_term": 3,
+      "page": "disciplinas/computational-logic-ii.md"
+    },
+    {
+      "code": "COM10081",
+      "name": "Metodologia de Pesquisa em Informática",
+      "suggested_term": 3,
+      "page": "disciplinas/research-methodology-in-computing.md"
+    },
+    {
+      "code": "COM10082",
+      "name": "Programação II",
+      "suggested_term": 3,
+      "page": "disciplinas/programming-ii.md"
+    },
+    {
+      "code": "DQF10079",
+      "name": "Fundamentos de Física III",
+      "suggested_term": 3,
+      "page": "disciplinas/physics-iii.md"
+    },
+    {
+      "code": "MPA10077",
+      "name": "Cálculo C",
+      "suggested_term": 3,
+      "page": "disciplinas/calculus-c.md"
+    },
+    {
+      "code": "COM10015",
+      "name": "Engenharia de Software",
+      "suggested_term": 4,
+      "page": "disciplinas/software-engineering.md"
+    },
+    {
+      "code": "COM10128",
+      "name": "Algoritmos Numéricos",
+      "suggested_term": 4,
+      "page": "disciplinas/numerical-algorithms.md"
+    },
+    {
+      "code": "COM10129",
+      "name": "Banco de Dados",
+      "suggested_term": 4,
+      "page": "disciplinas/databases.md"
+    },
+    {
+      "code": "COM10130",
+      "name": "Linguagens Formais e Autômatos",
+      "suggested_term": 4,
+      "page": "disciplinas/formal-languages-and-automata.md"
+    },
+    {
+      "code": "COM10131",
+      "name": "Otimização Linear",
+      "suggested_term": 4,
+      "page": "disciplinas/linear-optimization.md"
+    },
+    {
+      "code": "COM10132",
+      "name": "Sistemas Operacionais",
+      "suggested_term": 4,
+      "page": "disciplinas/operating-systems.md"
+    },
+    {
+      "code": "COM10133",
+      "name": "Teoria dos Grafos",
+      "suggested_term": 4,
+      "page": "disciplinas/graph-theory.md"
+    },
+    {
+      "code": "COM10275",
+      "name": "Engenharia de Requisitos de Software",
+      "suggested_term": 5,
+      "page": "disciplinas/requirements-engineering.md"
+    },
+    {
+      "code": "COM10392",
+      "name": "Linguagens de Programação",
+      "suggested_term": 5,
+      "page": "disciplinas/programming-languages.md"
+    },
+    {
+      "code": "COM10393",
+      "name": "Métodos de Otimização",
+      "suggested_term": 5,
+      "page": "disciplinas/optimization-methods.md"
+    },
+    {
+      "code": "COM10394",
+      "name": "Redes de Computadores",
+      "suggested_term": 5,
+      "page": "disciplinas/computer-networks.md"
+    },
+    {
+      "code": "COM10395",
+      "name": "Teoria da Computação",
+      "suggested_term": 5,
+      "page": "disciplinas/theory-of-computation.md"
+    },
+    {
+      "code": "ENG05510",
+      "name": "Estatística Básica",
+      "suggested_term": 5,
+      "page": "disciplinas/basic-statistics.md"
+    },
+    {
+      "code": "COM10507",
+      "name": "Interface Humano-Computador",
+      "suggested_term": 6,
+      "page": "disciplinas/human-computer-interaction.md"
+    },
+    {
+      "code": "COM10508",
+      "name": "Projeto de Sistemas de Software",
+      "suggested_term": 6,
+      "page": "disciplinas/software-systems-design.md"
+    },
+    {
+      "code": "COM10602",
+      "name": "Análise e Projeto de Algorítmos",
+      "suggested_term": 6,
+      "page": "disciplinas/algorithm-analysis-and-design.md"
+    },
+    {
+      "code": "COM10603",
+      "name": "Direito e Legislação",
+      "suggested_term": 6,
+      "page": "disciplinas/law-and-legislation.md"
+    },
+    {
+      "code": "COM10604",
+      "name": "Computação Gráfica",
+      "suggested_term": 6,
+      "page": "disciplinas/computer-graphics.md"
+    },
+    {
+      "code": "COM10616",
+      "name": "Sistemas Distribuídos",
+      "suggested_term": 6,
+      "page": "disciplinas/distributed-systems.md"
+    },
+    {
+      "code": "CFM10426",
+      "name": "Administração e Economia",
+      "suggested_term": 7,
+      "page": "disciplinas/administration-and-economics.md"
+    },
+    {
+      "code": "COM10733",
+      "name": "Gerência de Projeto de Software",
+      "suggested_term": 7,
+      "page": "disciplinas/software-project-management.md"
+    },
+    {
+      "code": "ENG10791",
+      "name": "Compiladores",
+      "suggested_term": 7,
+      "page": "disciplinas/compilers.md"
+    },
+    {
+      "code": "ENG10792",
+      "name": "Inteligência Artificial",
+      "suggested_term": 7,
+      "page": "disciplinas/artificial-intelligence.md"
+    },
+    {
+      "code": "CFM11061",
+      "name": "Empreendedorismo",
+      "suggested_term": 8,
+      "page": "disciplinas/entrepreneurship.md"
+    },
+    {
+      "code": "COM11062",
+      "name": "Estágio em Informática",
+      "suggested_term": 8,
+      "page": "disciplinas/internship-in-computing.md"
+    },
+    {
+      "code": "ENG10793",
+      "name": "Trabalho de Conclusão de Curso em Ciência da Computação I",
+      "suggested_term": 7,
+      "page": "disciplinas/final-project-i.md"
+    },
+    {
+      "code": "COM11063",
+      "name": "Trabalho de Conclusão de Curso em Ciência da Computação II",
+      "suggested_term": 8,
+      "page": "disciplinas/final-project-ii.md"
+    }
+  ]
+}
